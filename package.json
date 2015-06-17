@@ -19,5 +19,14 @@
   "bugs": {
     "url": "https://github.com/dahal/ReactFlux/issues"
   },
-  "homepage": "https://github.com/dahal/ReactFlux"
+  "homepage": "https://github.com/dahal/ReactFlux",
+  "dependencies": {
+    "browserify": "^10.2.4",
+    "gulp": "^3.9.0",
+    "react": "^0.13.3",
+    "react-async": "^2.1.0",
+    "react-router-component": "^0.25.1",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
 }
